@@ -1,0 +1,87 @@
+{
+  "personal details": {
+    "sensitivitylevel": "datalevel1",
+    "data": {
+      "1": {
+        "name": "Carol",
+        "age": "20",
+        "hometown": "Colombo"
+      },
+      "2": {
+        "name": "Louis",
+        "age": "23",
+        "hometown": "Colombo8"
+      },
+      "3": {
+        "name": "Philip",
+        "age": "53",
+        "hometown": "Kandy"
+      },
+      "4": {
+        "name": "Ollivia",
+        "age": "56"
+      }
+    }
+  },
+  "sickness details": {
+    "sensitivitylevel": "datalevel2",
+    "data": {
+      "1": {
+        "disease": "tb1",
+        "period": "2 months"
+      },
+      "2": {
+        "disease": "tb2",
+        "period": "1 week"
+      },
+      "3": {
+        "disease": "tb3",
+        "period": "2 weeks"
+      },
+      "4": {
+        "disease": "tb1",
+        "period": "4 weeks"
+      }
+    }
+  },
+  "drug prescriptions": {
+    "sensitivitylevel": "datalevel3",
+    "data": {
+      "1": [
+        "panadol",
+        "paracetomol"
+      ],
+      "2": [
+        "omeprazole",
+        "panadol"
+      ],
+      "3": [
+        "forocort",
+        "paracetomol"
+      ],
+      "4": [
+        "cdewef",
+        "fqEF",
+        "FEWEQ",
+        ""
+      ]
+    }
+  },
+  "lab test prescriptions": {
+    "sensitivitylevel": "datalevel4",
+    "data": {
+      "1": [
+        "CFEWF",
+        "WAAA",
+        "VFAFV",
+        ""
+      ],
+      "2": [
+        "blood test1"
+      ],
+      "3": [
+        "blood test1"
+      ]
+    }
+  }
+}
